@@ -1,2 +1,5 @@
-# gradproject
-## project notes 
+<<<<<<< HEAD
+Your changes here...
+=======
+Changes from the remote repository...
+>>>>>>> c9eae22... (commit hash)
